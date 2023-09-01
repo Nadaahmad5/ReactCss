@@ -1,0 +1,13 @@
+.post{
+    color: rgb(0, 4, 8);
+    outline-style: solid;
+    outline-color: rgb(7, 207, 174);
+    outline-offset: 0.40cm;
+    outline-width: 3px;
+    width: 630px;
+    text-align: center;
+    margin-block-end: 50px;
+    margin-top: 30px;
+    margin-right: 50px;
+    margin-left: 270px;
+}
